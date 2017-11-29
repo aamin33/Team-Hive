@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "895430743395",
+    "firebase_url": "https://hello-world-3500c.firebaseio.com",
+    "project_id": "hello-world-3500c",
+    "storage_bucket": "hello-world-3500c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895430743395:android:6799c59f240b50be",
+        "android_client_info": {
+          "package_name": "com.example.anish.careerbuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895430743395-lg545v4pv9oafc2fgsphrincvksvedia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKPCiLv00QFEtxgwi0uHEMgYkjylWpCmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
